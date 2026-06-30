@@ -1,5 +1,12 @@
 # Military-AI
 
+## Week 2 - Speech production
+
+- LibriSpeech(test-clean) 음성 데이터 불러오기 및 전처리
+- STFT 스펙트로그램으로 음성의 주파수-시간 분포 확인
+- 120 Hz 임펄스 트레인(성대 소스) 생성
+- 포먼트 필터(F1~F5)를 적용한 소스-필터 모델로 /a·e·i·o·u/ 모음 합성
+
 군AI 실습자료입니다.
 군AI 실습 자료 (Week 1)
 
